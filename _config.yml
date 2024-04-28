@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chengming Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "CS PhD at IU; HPC/NLP researcher"
+  bio              : "Assistant Professor at CS Department, University of Houston."
   location         : "Bloomingtion, IN"
   employer         : "Indiana University"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/chengmingzh8"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "chengming-zhang-71a3b1120/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

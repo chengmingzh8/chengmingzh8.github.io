@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 
-## Research Intersets
-* Large-scale machine learning & deep learning
-* High-performance computing (HPC)
-* Parallel file system & I/O system
-* Data reduction & lossy compression
+## Research Interests
+
+* Efficient machine learning systems (training/inference on parallel/distributed/heterogeneous hardware)
+* AI algorithm-hardware Co-design (GPU)
+* Effective efficiency algorithms (model compression, data efficiency, parameter-efficient tuning, etc.)
+* Large-scale DL/AI applications (Large Language Model, Agent, Image/Video Generation, DLRM, etc.)
+
