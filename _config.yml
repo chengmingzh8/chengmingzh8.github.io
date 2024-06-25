@@ -24,7 +24,7 @@ author:
   avatar           : "profile1.jpg"
   name             : "Chengming Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at CS Department, University of Houston."
+  bio              : "Chengming Zhang" #"Assistant Professor at CS Department, University of Houston."
   location         : "Bloomingtion, IN"
   employer         : "Indiana University"
   uri              : # URL
