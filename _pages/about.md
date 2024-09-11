@@ -10,7 +10,7 @@ redirect_from:
 
 I received my Ph.D. degree in Computer Engineering from Indiana University in May 2024, where I was a member of the [HiPDAC group](https://www.dingwentao.com/hipdac) working on building efficient and scalable deep learning system and advised by [Prof. Dingwen Tao](https://www.dingwentao.com/). I have extensive industry research experience and has participated in multiple research projects in laboratories such as Microsoft Research, meta Reality Labs, Argonne National Laboratory.
 
-<!-- I am a tenure-track assistant professor in the Computer Science Department at [University of Houston](https://www.uh.edu/). I received my Ph.D. degree in Computer Engineering from Indiana University in May 2024, where I was a member of the [HiPDAC group](https://www.dingwentao.com/hipdac) working on building efficient and scalable deep learning system and advised by [Prof. Dingwen Tao](https://www.dingwentao.com/). I have extensive industry research experience and has participated in multiple research projects in laboratories such as Microsoft Research, meta Reality Labs, Argonne National Laboratory.
+I am a tenure-track assistant professor in the Computer Science Department at [University of Houston](https://www.uh.edu/). I received my Ph.D. degree in Computer Engineering from Indiana University in May 2024, where I was a member of the [HiPDAC group](https://www.dingwentao.com/hipdac) working on building efficient and scalable deep learning system and advised by [Prof. Dingwen Tao](https://www.dingwentao.com/). I have extensive industry research experience and has participated in multiple research projects in laboratories such as Microsoft Research, meta Reality Labs, Argonne National Laboratory.
 
 
 **I am actively looking for multiple fully funded Ph.D. students** who are intersted in the following research directions:
@@ -28,7 +28,7 @@ If you are interested, please send me an email at chengmingzh@gmail.com with you
 
 News
 ======
-* [04/2024] I will join University of Houston as tenure-track assistant professor in the fall semester of 2024. -->
+* [09/2024] I will join University of Houston as tenure-track assistant professor in the fall semester of 2024.
 
 
 
